@@ -35,7 +35,10 @@ public:
 
 ![alt text](Yasuo_True_Damage_EP.png)
 
+#Codigo para leer las series - //Input file stream - leer del in
 
+ifstream lectura; 
+string linea, dato;
 lectura.open("Series.csv",ios::in);
 while (getline(lectura, linea))
 {

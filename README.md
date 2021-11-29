@@ -23,14 +23,16 @@ Hola
 - Hyperloop
 
 
-`class HelloWorld{
+```
+class HelloWorld{
 private:
   int holas = 15;
   string saludo = "Buenas buenas";
 public:
   void gethHolas();
 
-};`
+};
+```
 
 
 [BLOOMBERG](https://www.bloomberg.com/)

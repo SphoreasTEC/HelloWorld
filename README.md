@@ -45,7 +45,7 @@ public:
 |  Main  |     Uses    |
 
 
-`
+```
 int main()
 {   int a {0};
     printf("Enter a number: ");
@@ -99,4 +99,4 @@ int main()
 
     return 0;
 }
-`
+```

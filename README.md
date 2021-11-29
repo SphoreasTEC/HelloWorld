@@ -20,6 +20,7 @@ Hola
 - Third item
 
 `code`
+
 class HelloWorld{
 private:
   int holas = 15;
@@ -28,7 +29,7 @@ public:
   void gethHolas();
 
 };
----
+
 
 [title](TAREA 29)
 

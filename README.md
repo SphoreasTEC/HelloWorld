@@ -101,10 +101,6 @@ int main()
 }
 ```
 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote. 
-
 
  	metamorphosis:
   a change of the form or nature of a thing or person into a completely different one, by natural or supernatural means.
@@ -115,3 +111,9 @@ Here's a sentence with a footnote. [^1]
 - [x] Hyper heuristics
 - [ ] Graph theory
 - [ ] Rose at nightfall
+
+
+JUPITER. [^1]
+Poseidon. [^2]
+[^1]: the chief Roman god, husband of Juno, and god of light, of the sky and weather, and of the state and its welfare and its laws 
+[^2]: The ancient Greek god of the sea, with the power to cause earthquakes, identified by the Romans with Neptune. 

@@ -19,16 +19,15 @@ Hola
 - Second item
 - Third item
 
-`code`
 
-class HelloWorld{
+`class HelloWorld{
 private:
   int holas = 15;
   string saludo = "Buenas buenas";
 public:
   void gethHolas();
 
-};
+};`
 
 
 [title](TAREA 29)
@@ -37,7 +36,7 @@ public:
 
 #Codigo para leer las series - //Input file stream - leer del in
 
-'ifstream lectura; 
+`ifstream lectura; 
 string linea, dato;
 lectura.open("Series.csv",ios::in);
 while (getline(lectura, linea))
@@ -75,4 +74,4 @@ cout <<iD<<","<<titulo<<","<<duracion<<","<<genero<<","<<calificacionPromedio<< 
 
 }
 return 0;
-'
+`

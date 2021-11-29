@@ -100,3 +100,9 @@ int main()
     return 0;
 }
 ```
+
+~~The world in a nutshell.~~
+
+- [x] Hyper heuristics
+- [ ] Graph theory
+- [ ] Rose at nightfall

@@ -34,7 +34,13 @@ public:
 
 ![alt text](Yasuo_True_Damage_EP.png)
 
+
+
 #Codigo para leer las series - //Input file stream - leer del in
+| Syntax | Description |
+| ------ | ----------- |
+|  Main  |     Uses    |
+
 
 `
 #include <stdio.h>

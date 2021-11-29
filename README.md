@@ -100,6 +100,9 @@ int main()
     return 0;
 }
 ```
+ 	metamorphosis 
+: a change of the form or nature of a thing or person into a completely different one, by natural or supernatural means.
+
 
 ~~The world in a nutshell.~~
 

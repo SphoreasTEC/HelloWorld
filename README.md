@@ -47,12 +47,6 @@ public:
 #include <string>
 using namespace std;
 
-// PRINTF
-// %f = Double or Floating point numbers
-// %s = Strings
-// %d = Int numbers
-// %c = Char
-
 int main()
 {   int a {0};
     printf("Enter a number: ");

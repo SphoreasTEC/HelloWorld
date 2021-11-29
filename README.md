@@ -30,7 +30,7 @@ public:
 };`
 
 
-[title](https://www.elfinanciero.com.mx/economia/)
+[BLOOMBERG](https://www.bloomberg.com/)
 
 ![alt text](Yasuo_True_Damage_EP.png)
 

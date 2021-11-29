@@ -5,6 +5,9 @@ Hola
 ## Hugo Alvarado
 ### A00834109
 
+## Colaborador:
+## Irwin Cárdenas Garza | A00833790
+
 **RACING**
 
 *Este es un trabajo de clase*

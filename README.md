@@ -100,6 +100,12 @@ int main()
     return 0;
 }
 ```
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote. 
+
+
  	metamorphosis:
   a change of the form or nature of a thing or person into a completely different one, by natural or supernatural means.
 

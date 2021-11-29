@@ -37,7 +37,7 @@ public:
 
 #Codigo para leer las series - //Input file stream - leer del in
 
-ifstream lectura; 
+'ifstream lectura; 
 string linea, dato;
 lectura.open("Series.csv",ios::in);
 while (getline(lectura, linea))
@@ -75,3 +75,4 @@ cout <<iD<<","<<titulo<<","<<duracion<<","<<genero<<","<<calificacionPromedio<< 
 
 }
 return 0;
+'

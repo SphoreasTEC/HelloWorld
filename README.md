@@ -25,4 +25,4 @@ Hola
 
 [title](TAREA 29)
 
-![alt text](Yasuo_True_Damage_EP.png.jpg)
+![alt text](Yasuo_True_Damage_EP.png)

@@ -7,7 +7,7 @@ Hola
 
 **bold text**
 
-*italicized text*
+*Empezar el trabajo*
 
 > Eset es un trabajo de clase
 

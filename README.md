@@ -35,6 +35,7 @@ public:
   void setHolas(int _holas);
   int getHolas();
 };
+
 #endif
 ```
 

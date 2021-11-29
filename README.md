@@ -43,10 +43,6 @@ public:
 
 
 `
-#include <stdio.h>
-#include <string>
-using namespace std;
-
 int main()
 {   int a {0};
     printf("Enter a number: ");

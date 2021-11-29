@@ -1,9 +1,9 @@
-# HelloWorld
+### HelloWorld
 Hola
 
-### ITC
+# ITC
 ## Hugo Alvarado
-# A00834109
+### A00834109
 
 ## Colaborador:
 ## Irwin Cárdenas Garza | A00833790

@@ -12,7 +12,7 @@ Hola
 
 *Este es un trabajo de clase*
 
-> Empezar el trabajo
+> Compras al super:
 
 1. Cereal
 2. Manzanas

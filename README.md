@@ -24,14 +24,18 @@ Hola
 
 
 ```
+#ifndef HelloWorld_hpp
+#define HelloWorld_hpp
+
 class HelloWorld{
 private:
   int holas = 15;
   string saludo = "Buenas buenas";
 public:
-  void gethHolas();
-
+  void setHolas(int _holas);
+  int getHolas();
 };
+#endif
 ```
 
 

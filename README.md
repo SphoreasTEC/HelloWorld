@@ -7,17 +7,17 @@ Hola
 
 **bold text**
 
-*Empezar el trabajo*
+*Este es un trabajo de clase*
 
-> Eset es un trabajo de clase
+> Empezar el trabajo
 
-1. First item
-2. Second item
-3. Third item
+1. Cereal
+2. Manzanas
+3. Zanahorias
 
-- First item
-- Second item
-- Third item
+- Avión
+- Submarino
+- Hyperloop
 
 
 `class HelloWorld{

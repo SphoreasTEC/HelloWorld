@@ -1,7 +1,7 @@
 # HelloWorld
 Hola
 
-# Hello World
+# ITC
 ## Hugo Alvarado
 ### A00834109
 
@@ -20,7 +20,14 @@ Hola
 - Third item
 
 `code`
+class HelloWorld{
+private:
+  int holas = 15;
+  string saludo = "Buenas buenas";
+public:
+  void gethHolas();
 
+};
 ---
 
 [title](TAREA 29)
